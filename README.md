@@ -49,13 +49,13 @@
         <img src="https://github.com/yourusername/yourrepository/raw/master/22.jpg" alt="Profile Picture">
         <h2>📋 Personal Information</h2>
         <div class="info">
-            <span>👤 Name:</span> Abeer Amer
+            <span>👤 Name:</span> shereen
         </div>
         <div class="info">
-            <span>🎂 Age:</span> 30
+            <span>🎂 Age:</span> 21
         </div>
         <div class="info">
-            <span>📅 Date of Birth:</span> January 1, 1994
+            <span>📅 Date of Birth:</span> January 1,2002
         </div>
         <div class="info">
             <span>📞 Parent's Number:</span> +1-234-567-890
