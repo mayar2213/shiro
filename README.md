@@ -46,7 +46,7 @@
 </head>
 <body>
     <div class="info-container">
-        <img src="https://github.com/yourusername/yourrepository/raw/master/22.jpg" alt="Profile Picture">
+        <img src="11.jpg" alt="Profile Picture">
         <h2>📋 Personal Information</h2>
         <div class="info">
             <span>👤 Name:</span> shereen
