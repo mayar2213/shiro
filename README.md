@@ -52,13 +52,13 @@
             <span>👤 Name:</span> shereen
         </div>
         <div class="info">
-            <span>🎂 Age:</span> 21
+            <span>🎂 Age:</span> 22
         </div>
         <div class="info">
-            <span>📅 Date of Birth:</span> January 1,2002
+            <span>📅 Date of Birth:</span> 24/6/2001
         </div>
         <div class="info">
-            <span>📞 Parent's Number:</span> +1-234-567-890
+            <span>📞 Parent's Number:</span> 01029393157
         </div>
         <div class="info">
             <span>📞 Another Number:</span> +1-234-567-890
