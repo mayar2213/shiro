@@ -49,7 +49,7 @@
         <img src="11.jpg" alt="Profile Picture">
         <h2>📋 Personal Information</h2>
         <div class="info">
-            <span>👤 Name:</span> shereen
+            <span>👤 Name:</span> sherinahmed
         </div>
         <div class="info">
             <span>🎂 Age:</span> 22
